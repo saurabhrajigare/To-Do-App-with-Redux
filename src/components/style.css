@@ -1,0 +1,89 @@
+.input1{
+    border: none;
+    width: 40%;
+    border-radius: 8px;
+    padding: 6px 10px;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+.input2{
+    border: none;
+    width: 30%;
+    border-radius: 8px;
+    padding: 6px 10px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    margin-top: 10px;
+}
+.input3{
+    border: none;
+    width: 30%;
+    border-radius: 8px;
+    padding: 6px 10px;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+.addbtn{
+    background-color: brown;
+    border: none;
+    color: white;
+    padding: 6px 10px;
+    text-align: center;
+    font-size: 15px;
+    margin-left: 5px;
+    transition-duration: 1s;
+}
+.addbtn:hover{
+    background-color: green;
+    color: white;
+}
+
+.addbtn1{
+    background-color: orangered;
+    border: none;
+    color: white;
+    padding: 6px 10px;
+    text-align: center;
+    font-size: 15px;
+    margin-left: 5px;
+    transition-duration: 1s;
+}
+.addbtn1:hover{
+    background-color: brown;
+    color: white;
+}
+.btn2{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.form{
+    text-align: center;
+}
+
+.all{
+    color: brown;
+    font-weight: bolder;
+}
+.all1{
+    color: orangered;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.list{
+    margin-top: 15px;
+    margin-left: 30px;
+    font-size: large;
+}
+.header1{
+    width: 520px;
+    height: auto;
+    background-color: rgba(13, 13, 165, 0.856);
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 435px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    border-radius: 15px 15px 15px 15px;
+
+}
+
